@@ -79,8 +79,6 @@ public class Deber7 extends Application {
         cuadro(x + lado, y - lado, lado/3, n - 1, grupo);
         cuadro(x - lado, y + lado, lado/3, n - 1, grupo);
         cuadro(x + lado, y + lado, lado/3, n - 1, grupo);
-    
-        System.out.println("hojjj");
 
     }
     
